@@ -102,3 +102,6 @@ ENV/
 
 # Ignore my vscode config
 .vscode/
+
+# VS Code
+*.code-workspace
